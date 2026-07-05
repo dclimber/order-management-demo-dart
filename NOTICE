@@ -1,0 +1,22 @@
+order_management_demo (Dart / Jaspr port)
+
+This project is a rewrite of the Restaurant Order Management demo, ported from
+TypeScript (Deno Fresh) to Dart (Jaspr + SQLite).
+
+Original work
+  Project:  order-management-demo
+  Authors:  Fraktalio D.O.O. (https://github.com/fraktalio)
+  Source:   https://github.com/fraktalio/order-management-demo
+  License:  Apache License, Version 2.0
+
+The original domain model, event-modeling blueprint, Dynamic Consistency
+Boundary (DCB) use cases, and behavioral specifications are derived from that
+project. Fraktalio is credited as the original author of those concepts and
+requirements.
+
+Dart port
+  Author:   Dclimber
+  Notes:    Implementation produced primarily via AI coding agents; no source
+            code in this repository was hand-written line-by-line.
+
+See README.md for further attribution and disclaimers.
