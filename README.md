@@ -26,7 +26,11 @@ The domain is designed using [Event Modeling](https://eventmodeling.org) — a
 blueprint that maps out commands, events, read models, and UI interactions in a
 single visual artifact.
 
-![Event Modeling Blueprint](f1.png)
+The Event Model can be viewed:
+- [here](doc/order_management.em.hcl) as a [`.em.hcl`](https://event-modeling-hcl.github.io/) file spec;
+- [here](https://dclimber.github.io/order-management-demo-dart/) as a rendered diagram (with [`emhcl`](https://github.com/event-modeling-hcl/eventmodeling-hcl) tool).
+
+![Event Modeling Blueprint](event-model.png)
 
 ## Tech Stack
 
